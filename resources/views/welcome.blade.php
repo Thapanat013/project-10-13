@@ -32,7 +32,7 @@
             @endif
 
             <div class="text-center">
-                <h1>ฐปนรรฆ ขาวสอาด</h1>
+                <h1>ร้านก๋วยเตี๋ยวหมูตุ๋น</h1>
                 <h1>{{ date("d:m:Y H:i:s") }}</h1>
             </div>
 
